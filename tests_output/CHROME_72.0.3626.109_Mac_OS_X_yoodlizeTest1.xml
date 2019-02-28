@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="yoodlizeTest1"
+    errors="1" failures="1" hostname="" id="" package="yoodlizeTest1" skipped="0"
+    tests="1" time="64.53" timestamp="">
+  
+    <testcase name="It can search for items" classname="yoodlizeTest1" time="64.53" assertions="1">  <failure message="Timed out while waiting for element &lt;img[src=&#34;/images/logo/blueRaw.png&#34;]&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;found&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.beforeEach (/Users/ivanfomin/Desktop/devmtn/yoodlize-group/tests/yoodlizeTest1.js:4:14)
+    at new Promise (&lt;anonymous&gt;)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

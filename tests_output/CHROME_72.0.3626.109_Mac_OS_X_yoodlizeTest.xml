@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="yoodlizeTest"
+    errors="0" failures="0" hostname="" id="" package="yoodlizeTest" skipped="0"
+    tests="2" time="15.26" timestamp="">
+  
+    <testcase name="It can search for items" classname="yoodlizeTest" time="9.710" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="When searching for items not listed, it creates an error message" classname="yoodlizeTest" time="5.552" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
